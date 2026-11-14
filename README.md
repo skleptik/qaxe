@@ -40,6 +40,9 @@ modes: four pools stay connected at the same time and jobs are distributed by
 per-pool weights. The web panel has four pool tabs and shows each pool's share
 of the hashrate.
 
+Ready-to-flash binaries (OTA + full USB image) and flashing instructions:
+https://github.com/skleptik/ESP-Miner-NerdQAxePlus/releases/tag/v1.1.2-quad
+
 
 ## Legacy Designs
 
