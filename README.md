@@ -31,6 +31,15 @@ The latest version can be found here:
 
 https://github.com/shufps/ESP-Miner-NerdQAxePlus
 
+### Quad-pool (4-pool) firmware fork
+
+https://github.com/skleptik/ESP-Miner-NerdQAxePlus/tree/feature/quad-pool
+
+This fork adds a `Quad Pool` mode next to the upstream `Failover` and `Dual Pool`
+modes: four pools stay connected at the same time and jobs are distributed by
+per-pool weights. The web panel has four pool tabs and shows each pool's share
+of the hashrate.
+
 
 ## Legacy Designs
 
